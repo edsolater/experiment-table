@@ -5,6 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
+  '@edsolater/fnkit':
+    specifier: ^0.1.60
+    version: 0.1.60
   solid-js:
     specifier: ^1.8.7
     version: 1.8.7
@@ -349,6 +352,10 @@ packages:
       '@babel/helper-validator-identifier': 7.22.20
       to-fast-properties: 2.0.0
     dev: true
+
+  /@edsolater/fnkit@0.1.60:
+    resolution: {integrity: sha512-zEHg9ZvN/2hkEPZqHU39D8p3jvIo+j/pWW7mmQIs8QcbKjbisXSfPd8pwEE0NzcBT3KF7Nzx2pQO+9uvVGVR5A==}
+    dev: false
 
   /@esbuild/aix-ppc64@0.19.10:
     resolution: {integrity: sha512-Q+mk96KJ+FZ30h9fsJl+67IjNJm3x2eX+GBWGmocAKgzp27cowCOOqSdscX80s0SpdFXZnIv/+1xD1EctFx96Q==}

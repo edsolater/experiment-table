@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@edsolater/fnkit": "^0.1.60",
     "solid-js": "^1.8.7"
   },
   "devDependencies": {
